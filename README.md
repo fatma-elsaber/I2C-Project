@@ -45,6 +45,7 @@ The master sends a number to the slave via I2C, and if the number is 2, the slav
 
 ## 📸 Video
 LED ON
+
 https://github.com/user-attachments/assets/fb6ff681-f157-4c56-a2c6-5599fdd7642a
 
 LED OFF
